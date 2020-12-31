@@ -157,7 +157,7 @@ const Hero = () => {
                     Branding & creative - Digital Agency
                   </Title>
                   <Text mb={4}>
-                    Create custom landing pages with Omega that convert more
+                    Create custom landing pages with Jetnor that convert more
                     visitors than any website. With lots of unique blocks, you
                     can easily build a page without coding.
                   </Text>
