@@ -83,7 +83,7 @@ const Feature = () => (
             <div className="feature-content section-title">
               <Title color="light">Build a perfect landing page.</Title>
               <Text color="light" opacity={0.7} mb={4}>
-                Create custom landing pages with Omega that converts more
+                Create custom landing pages with Jetnor that converts more
                 visitors than any website. With lots of unique blocks, you can
                 easily build a page without coding.
               </Text>
