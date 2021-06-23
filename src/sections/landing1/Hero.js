@@ -154,7 +154,7 @@ const Hero = () => {
               >
                 <Box py={[null, null, null, 5]} pr={5} pt={[4, null]}>
                   <Title variant="hero">
-                    Branding & creative - Digital Agency
+                    Branding & creative - Digital Agency Based in London
                   </Title>
                   <Text mb={4}>
                     Create custom landing pages with Jetnor that convert more
