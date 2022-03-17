@@ -95,7 +95,7 @@ export const menuItems = [
     ],
   },
   {
-    name: "https://uxtheme.net/product-support/",
+    name: "https://meta-camera.io/contact/",
     label: "Support",
     isExternal: true,
   },
