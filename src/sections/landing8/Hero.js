@@ -127,7 +127,7 @@ const Hero = () => {
                   <BoxPrice mt={4} mb={3}>
                     <Box className="d-flex align-items-center">
                       <Title color="light" mb="0!important" mr={3}>
-                        $299
+                        $149
                       </Title>
                       <Box>
                         <Badge bg="success">Save 30% today</Badge>
