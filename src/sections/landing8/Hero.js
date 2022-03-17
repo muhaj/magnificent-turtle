@@ -116,13 +116,12 @@ const Hero = () => {
               >
                 <Box pt={[4, null, null, 0]}>
                   <Title color="light">
-                    Enjoy every single
+                    Enjoy ultrafast speeds
                     <br className="d-none d-sm-block" />
-                    beat on headphone!
+                    With Meta Mini Router!
                   </Title>
                   <Text color="lightShade">
-                    For iPhone, iPad, and Android users, be sure your product’s
-                    firmware is up to date through the Bose connect app.
+                    Enjoy the fastest, smoothest WiFi gaming connections ever with the Meta Mini Router Series dual-band WiFi 6 router. It delivers ultrafast WiFi speeds up.
                   </Text>
 
                   <BoxPrice mt={4} mb={3}>
