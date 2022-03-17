@@ -82,13 +82,11 @@ const Content2 = () => (
               <div className="content-text pl-lg--50">
                 <div className="section-title">
                   <Title>
-                    Get noise free <br className="d-none d-sm-block" /> sound
-                    everytime
+                    Your Winning Choice <br className="d-none d-sm-block" /> Transform your business
                   </Title>
                   <Text mb={4}>
-                    Create custom landing pages with Omega that converts more
-                    visitors than any website. With lots of unique blocks, you
-                    can easily build a page without coding.
+                    High-performance WIFI6 module launched by Meta-Camera.io
+                    Ultrapowerful WiFi 6 Lower latency Faster speeds Energy efficient and Longer range
                   </Text>
                 </div>
                 <div className="mt-5">
