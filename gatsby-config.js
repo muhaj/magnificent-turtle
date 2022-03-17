@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Omega Gatsby`,
+    title: `Meta Camera`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
